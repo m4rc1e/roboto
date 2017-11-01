@@ -4650,5 +4650,21 @@
 	<string>zeta.glif</string>
 	<key>zrthook</key>
 	<string>zrthook.glif</string>
+	<key>uni1C80</key>
+	<string>uni1C_80.glif</string>
+	<key>uni1C81</key>
+	<string>uni1C_81.glif</string>
+	<key>uni1C82</key>
+	<string>uni1C_82.glif</string>
+	<key>uni1C83</key>
+	<string>uni1C_83.glif</string>
+	<key>uni1C84</key>
+	<string>uni1C_84.glif</string>
+	<key>uni1C85</key>
+	<string>uni1C_85.glif</string>
+	<key>uni1C86</key>
+	<string>uni1C_86.glif</string>
+	<key>uni1C87</key>
+	<string>uni1C_87.glif</string>
 </dict>
 </plist>

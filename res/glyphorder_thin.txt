@@ -3385,3 +3385,11 @@ Uhungarumlaut.unic
 Uogonek.unic
 uni1E2D.ccmp
 uni1ECB.ccmp
+uni1C80
+uni1C81
+uni1C82
+uni1C83
+uni1C84
+uni1C85
+uni1C86
+uni1C87
